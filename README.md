@@ -14,4 +14,4 @@ Technology used:
 - [x] SASS
 - [x] Javascript
 
-<a href="https://iamgalexing.github.io/HELL-EN--eurocoders-project/" target="_blank"><img src="https://github.com/IamGalexing/HELL-EN--eurocoders-project/blob/master/src/images/Hell-EN--screen.jpg" alt="screenshot of the main page of project"/></a>
+<a href="https://iamgalexing.github.io/HELL-EN--eurocoders-project/" target="_blank"><img src="https://github.com/IamGalexing/HELL-EN--project/blob/master/src/images/Hell-EN--screen.jpg" alt="screenshot of the main page of project"/></a>
